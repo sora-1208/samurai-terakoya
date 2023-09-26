@@ -3,5 +3,3 @@
 Samurai-terakoya
 
 こんにちは
-
-コミットできない
